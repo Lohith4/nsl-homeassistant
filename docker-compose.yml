@@ -5,7 +5,8 @@ services:
     image: ghcr.io/home-assistant/home-assistant:stable
     volumes:
       - ./config:/config/
-    network_mode: "host"
+    ports:
+      - "8123:8123"
     labels:
       dev.okteto.com/private: "true"
     environment:
