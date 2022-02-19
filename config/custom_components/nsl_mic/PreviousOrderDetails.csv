@@ -1,0 +1,6 @@
+Customer Name,Time,Pizza Name,Pizza Size,Pizza Toppings,Pizza Crust,Cheese Type,Count,Total_Cost,Payment method,Delivery_Location,Day stage
+User1,12:35,Margherita,Medium,Corn,Cheese burst,Mozzarella cheese,2,200,Cash,Home,Morning
+User1,13:35,Margherita,Medium,Corn,Cheese burst,Mozzarella cheese,3,300,Cash,Home,Morning
+User1,16:35,Chicken Fiesta,Medium,Mushroom,Cheese burst,Mozzarella cheese,3,900,Cash,Work,Afternoon
+User1,19:35,Peppy Paneer,Small,Onion,Thin crust,Mozzarella cheese,2,400,Card,Home,Evening
+User1,21:35,Peppy Paneer,Small,Onion,Thin crust,Mozzarella cheese,1,200,Card,Home,Evening

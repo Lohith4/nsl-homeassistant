@@ -1,0 +1,3 @@
+nsl_mic:
+  name: mic
+  description: takes voice input for nsl
