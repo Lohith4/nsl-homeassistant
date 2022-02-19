@@ -6,6 +6,8 @@ services:
     volumes:
       - ./config:/config/
     network_mode: "host"
+    labels:
+      dev.okteto.com/private: "true"
     environment:
       - TZ=Asia/Kolkata
     tty: true
