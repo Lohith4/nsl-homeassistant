@@ -3,8 +3,6 @@ services:
   nsl-homeassistant:
     container_name: nsl-homeassistant
     image: ghcr.io/home-assistant/home-assistant:stable
-    volumes:
-      - ./config:/config/
     ports:
       - "8123:8123"
     labels:
